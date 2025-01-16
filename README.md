@@ -34,4 +34,4 @@ The **Pocket Tanks Java Project** is an action-packed overhead shooter game wher
 1. **Clone the Repository**:
    Clone the project repository from GitHub:
    ```bash
-   git clone https://github.com/your-username/Pocket-Tanks-Java-Project.git
+   git clone https://github.com/Rasmiranjanparida/Pocket-Tanks.git
